@@ -1,4 +1,4 @@
-# ae_casestudy_oscarhealth
+# Member Health and Prescription use data modeling
 
 **Modeling Medical and Prescription Drug Use to Enable Exploration of Members' Health Status**
 
